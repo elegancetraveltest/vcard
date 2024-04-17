@@ -1,0 +1,22 @@
+{
+    "name":"NEON vCARD",
+    "short_name":"vCARD",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"Black",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"This is a NFC smart card.",
+    "icons":[
+    {
+    "src":"applogo.png",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"applogo.png",
+    "sizes":"500x500",
+    "type":"image/png"
+    }
+  ]
+}
